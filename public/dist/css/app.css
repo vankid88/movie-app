@@ -1,0 +1,9 @@
+.login-container {
+    float: right;
+}
+
+.login-container input{
+    float: left;
+    width: 30% ;
+    margin-right: 1rem;
+}
